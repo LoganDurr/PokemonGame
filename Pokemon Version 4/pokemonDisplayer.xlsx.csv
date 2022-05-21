@@ -1,0 +1,149 @@
+bulbasaur,(1) Tackle[Normal]      Power: 35,(2) Vine Whip[Grass]    Power: 55,(3) Leaf Cut[Grass]    Power: 55,(4) Cut[Normal]    Power:  50
+ivysaur,(1) Tackle[Normal]      Power: 35,(2) Vine Whip[Grass]    Power: 55,(3) Razor Leaf[Grass]    Power: 55,(4) Seed Bomb[Grass]    Power: 80
+venusaur,(1) Double-Edge[Normal]    Power: 120,(2) Petal Dance[Grass]    Power: 120,(3) Razor Leaf[Grass]    Power: 55,(4) Solar Beam[Grass]    Power: 120
+charmander,(1) Scratch[Normal]    Power: 40,(2) Ember[Fire]    Power: 40,(3) Dragon Breath[Dragon]    Power: 60,(4) Tackle[Normal]    Power: 35
+charmeleon,(1) Scratch[Normal]    Power: 40,(2) Ember[Fire]    Power: 40,(3) Dragon Breath[Dragon]    Power: 60,(4) Fire Fang[Fire]    Power: 65
+charizard,(1) Heatwave[Fire]    Power: 95,(2) Dragon Claw[Dragon]    Power: 80,(3) Flamethrower[Fire]    Power: 90,(4) Fire Blitz[Fire]    Power: 120
+squirtle,(1) Tackle[Normal]      Power: 40,(2) Watergun[Water]    Power: 40,(3) Rapid Spin[Normal]    Power: 50,(4) Bite[Dark]    Power: 60
+wartortle,(1) Tackle[Normal]    Power: 40,(2) Watergun[Water]    Power: 40,(3) Water Pulse[Water]    Power: 60,(4) Bite[Dark]    Power: 60
+blastoise,(1) Flash Cannon[Steel]    Power: 80,(2) Aqual Tail[Water]     Power: 90,(3) Hydro Pump[Water]    Power: 110,(4) Water Pulse[Water]    Power: 60
+caterpie,(1) String Shot[Bug]    Power: 10,(2) Tackle[Normal]    Power: 40,(3) Bug Bite[Bug]    Power: 60,(4) Scratch[Normal]    Power: 40
+metapod,(1) Harden[Normal]    Power: 40,(2) Harden[Normal]    Power: 40,(3) Harden[Normal]    Power: 40,(4) Harden[Normal]    Power: 40
+butterfree,(1) Bug Bite[Bug]    Power: 60,(2) Air Slash[Flying]    Power: 75,(3) Psybeam[Psychic]    Power: 65,(4) Bug Buzz[Bug]    Power: 90
+mewtwo,(1) Ancient Power[Rock]    Power: 60,(2) Psychic[Psychic]    Power: 90,(3) Psystrike[Psychic]    Power: 100,(4) Future Sight[Psychic]    Power: 120
+mew,(1) Ancient Power[Rock]    Power: 60,(2) Auro Sphere[Psychic]    Power: 80,(3) Psychic[Psychic]    Power: 90,(4) Shadow Claw[Ghost]    Power: 70
+weedle,(1) Poison Sting[Poison]    Power: 15,(2) String Shot[Bug]    Power: 30,(3) Bug Bite[Bug]    Power: 60,(4) Tackle[Normal]    Power: 40
+kakuna,(1) Harden[Normal]    Power: 40,(2) Harden[Normal]    Power: 40,(3) Harden[Normal]    Power: 40,(4) Harden[Normal]    Power: 40
+beedrill,(1) Bug Bite[Bug]    Power: 60,(2) Venoshock[Poison]    Power: 65,(3) Assurance[Dark]    Power: 60,(4) Poison Jab[Poison]    Power: 80
+pidgey,(1) Tackle[Normal]    Power: 40,(2) Sand Attack[Ground]   Power: 35,(3) Gust[Flying]    Power: 40,(4) Quick Attack[Normal]    Power: 40
+pidgeotto,(1) Quick Attack[Normal]    Power: 40,(2) Twister[Dragon]    Power: 40,(3) Wing Attack[Flying]    Power: 60,(4) Feather Dance[Flying]    Power: 40
+pigeot,(1) Hurricane[Flying]    Power: 110,(2) Twister[Dragon]    Power: 40,(3) Wing Attack[Flying]    Power: 60,(4) Feather Dance[Flying]    Power: 40
+rattata,(1) Tackle[Normal]    Power: 40,(2) Tail Whip[Normal]    Power: 40,(3) Quick Attack[Normal]    Power: 40,(4) Focus Energy[Normal]    Power: 40
+raticate,(1) Tackle[Normal]    Power: 40,(2) Tail Whip[Normal]    Power: 40,(3) Bite[Dark]    Power: 60,(4) Crunch[Dark]    Power: 80
+spearow,(1) Tackle[Normal]    Power: 40,(2) Leer[Normal]    Power: 40,(3) Peck[Flying]    Power: 35,(4) Assurance[Dark]    Power: 60
+fearow,(1) Aerial Ace[Flying]    Power: 60,(2) Wing Attack[Flying]    Power: 60,(3) Drill Run[Ground]    Power: 80,(4) Drill Peck[Flying]    Power: 80
+ekans,(1) Wrap[Normal]    Power: 25,(2) Poison Sting[Poison]    Power: 25,(3) Bite[Dark]    Power: 60,(4) Glare[Normal]    Power: 40
+arbok,(1) Acid Spray[Poison]    Power: 40,(2) Sludge Bomb[Poison]    Power: 90,(3) Belch[Poison]    Power: 120,(4) Gunk Shot[Poison]    Power: 120
+pikachu,(1) Quick Attack[Normal]    Power: 40,(2) Thunder Shock[Electric]    Power: 40,(3) Spark[Electric]    Power: 65,(4) Slam[Normal]    Power: 80
+raichu,(1) Spark[Electric]    Power: 65,(2) Thunder[Electric]    Power: 110,(3) Thunder Punch[Electric]    Power: 75,(4) Thunderbolt[Electric]    Power: 90
+sandshrew,(1) Scratch[Normal]    Power: 40,(2) Rollout[Rock]    Power: 30,(3) Poison Sting[Poison]    Power: 15,(4) Fury Cutter[Bug]    Power:  40
+sandslash,(1) Bulldoze[Ground]    Power: 60,(2) Swift[Normal]    Power: 60,(3) Slash[Normal]    Power: 70,(4) Dig[Ground]    Power: 80
+nidoran,(1) Poison Sting[Poison]    Power: 15,(2) Scratch[Normal]    Power: 40,(3) Tail Whip[Normal]    Power: 40,(4) Fury Swipes[Normal]    Power: 40
+nidorina,(1) Scratch[Normal]    Power: 40,(2) Toxic Spikes[Poison]    Power: 40,(3) Double Kick[Fighting]    Power: 30,(4) Bite[Dark]    Power: 60
+nidoqueen,(1) Crunch[Dark]    Power: 80,(2) Earth Power[Ground]    Power: 90,(3) Sludge Wave[Poison]    Power: 95,(4) Superpower[Fighting]    Power: 120
+clefairy,(1) Charm[Psychic]    Power: 40,(2) Copycat[Normal]    Power: 40,(3) Pound[Normal]    Power: 40,(4) Sing[Normal]    Power: 40
+clefable,(1) Meteor Mash[Steel]    Power: 90,(2) Moonblast[Psychic]    Power: 95,(3) Moonlight[Psychic]    Power: 80,(4) Sweet Kiss[Psychic]    Power: 100
+nidorino,(1) Toxic Spike[Poison]    Power: 40,(2) Double Kick[Fighting]    Power: 30,(3) Horn Attack[Normal]    Power: 65,(4) Helping Hand[Normal]    Power: 50
+nidoking,(1) Poison Jab[Poison]    Power: 80,(2) Sludge Wave[Poison]    Power: 95,(3) Toxic[Poison]    Power: 90,(4) Megahorn[Bug]    Power: 120
+vulpix,(1) Ember[Fire]    Power: 40,(2) Tail Whip[Normal]    Power: 40,(3) Incinerate[Fire]    Power: 60,(4) Spite[Ghost]    Power: 55
+ninetales,(1) Flamethrower[Fire]    Power: 90,(2) Inferno[Fire]    Power: 100,(3) Incinerate[Fire]    Power: 60,(4) Will O Wisp[Fire]    Power: 120
+jigglypuff,(1) Charm[Psychic]    Power: 40,(2) Copycat[Normal]    Power: 40,(3) Defense Curl[Normal]    Power: 20,(4) Disarming Voice[Psychic]    Power: 40
+wigglytuff,(1) Hyper Voice[Normal]    Power: 90,(2) Play Rough[Psychic]    Power: 90,(3) Rest[Psychic]    Power: 60,(4) Sweet Kiss[Psychic]    Power: 100
+zubat,(1) Absorb[Grass]    Power: 20,(2) Astonish[Ghost]    Power: 30,(3) Poison Fang[Poison]    Power: 50,(4) Supersonic[Normal]    Power: 35
+golbat,(1) Quick Guard[Fighting]    Power: 45,(2) Bite[Dark]    Power: 60,(3) Poison Fang[Poison]    Power: 50,(4) Air Cutter[Flying]    Power: 60
+oddish,(1) Absorb[Grass]    Power: 20,(2) Acid[Poison]    Power: 40,(3) Growth[Normal]    Power: 35,(4) Sweet Scent[Normal]    Power: 20
+gloom,(1) Mega Drain[Grass]      Power: 40,(2) Acid[Poison]        Power: 40,(3) Poison Powder[Poison]    Power: 50,(4) Stun Spore[Grass]    Power: 60
+vileplume,(1) Petal Dance[Grass]    Power: 90,(2) Petal Dance[Grass]    Power: 120,(3) Sleep Powder[Grass]    Power: 100,(4) Stun Spore[Grass]    Power: 60
+paras,(1) Scratch[Normal]    Power: 40,(2) Stun Spore[Grass]    Power: 35,(3) Absorb[Grass]    Power: 20,(4) Fury Cutter[Bug]    Power:  40
+parasect,(1) Slash[Normal]    Power: 60,(2) Giga Drain[Grass]    Power: 75,(3) Rage Powder[Bug]    Power: 90,(4) X Scissor[Bug]    Power: 80
+venonat,(1) Struggle Bug[Bug]    Power: 50,(2) Tackle[Normal]    Power: 40,(3) Confusion[Psychic]    Power: 50,(4) Poison Powder[Poison]    Power: 50
+venomoth,(1) Psybeam[Psychic]    Power: 65,(2) Leech Life[Bug]    Power: 80,(3) Zen Headbutt[Psychic]    Power: 80,(4) Bug Buzz[Bug]    Power: 90
+diglett,(1) Scratch[Normal]    Power: 40,(2) Sand Attack[Ground]   Power: 35,(3) Astonish[Ghost]    Power: 30,(4) Bulldoze[Ground]    Power: 60
+dugtrio,(1) Night Slash[Dark]    Power: 70,(2) Dig[Ground]    Power: 80,(3) Earth Power[Ground]    Power: 90,(4) Earthquake[Ground]    Power: 100
+meowth,(1) Fake Out[Normal]    Power: 40,(2) Feint[Normal]    Power: 30,(3) Scratch[Normal]    Power: 40,(4) Pay Day[Normal]    Power: 40
+persian,(1) Bite[Dark]    Power: 60,(2) Assurance[Dark]    Power: 60,(3) Slash[Normal]    Power: 70,(4) Play Rough[Psychic]    Power: 90
+psyduck,(1) Scratch[Normal]    Power: 40,(2) Watergun[Water]    Power: 40,(3) Confusion[Psychic]    Power: 50,(4) Water Pulse[Water]    Power: 60
+golduck,(1) Zen Headbutt[Psychic]    Power: 80,(2) Aqual Tail[Water]     Power: 90,(3) Hydro Pump[Water]    Power: 110,(4) Wonder Room[Psychic]    Power: 100
+mankey,(1) Covet[Normal]    Power: 60,(2) Low Kick[Fighting]    Power: 45,(3) Seismic Toss[Fighting]    Power: 50,(4) Retaliate[Normal]    Power: 70
+primeape,(1) Cross Chop[Fighting]    Power: 100,(2) Thrash[Normal]    Power: 120,(3) Close Combat[Fighting]    Power: 120,(4) Outrage[Dragon]    Power: 120
+growlithe,(1) Ember[Fire]    Power: 40,(2) Bite[Dark]    Power: 60,(3) Flame Wheel[Fire]    Power: 60,(4) Agility[Psychic]    Power: 50
+arcanine,(1) Flamethrower[Fire]    Power: 90,(2) Flare Blitz[Fire]    Power: 120,(3) Play Rough[Psychic]    Power: 90,(4) Reversal[Fighting]    Power: 100
+poliwag,(1) Hypnosis[Psychic]    Power: 35,(2) Watergun[Water]    Power: 40,(3) Pound[Normal]    Power: 40,(4) Mud Shot[Ground]    Power: 55
+poliwhirl,(1) Bubble Beam[Water]    Power: 65,(2) Watergun[Water]    Power: 40,(3) Rain Dance[Water]    Power: 55,(4) Mud Shot[Ground]    Power: 55
+poliwrath,(1) Dynamic Punch[Fighting]    Power: 100,(2) Earth Power[Ground]    Power: 90,(3) Hydro Pump[Water]    Power: 110,(4) Submission[Fighting]    Power: 80
+abra,(1) Teleport[Psychic]    Power: 30,(2) Teleport[Psychic]    Power: 30,(3) Teleport[Psychic]    Power: 30,(4) Teleport[Psychic]    Power: 30
+kadabra,(1) Confusion[Psychic]    Power: 50,(2) Psybeam[Psychic]    Power: 65,(3) Kinesis[Psychic]    Power: 45,(4) Disable[Normal]    Power: 40
+alakazam,(1) Psycho Cut[Psychic]    Power: 70,(2) Psyshock[Psychic]    Power: 80,(3) Psychic[Psychic]    Power: 90,(4) Future Sight[Psychic]    Power: 120
+machop,(1) Leer[Normal]    Power: 40,(2) Low Kick[Fighting]    Power: 45,(3) Revenge[Fighting]    Power: 60,(4) Low Sweep[Fighting]    Power: 65
+macahoke,(1) Knock Off[Dark]    Power: 65,(2) Vital Throw[Fighting]    Power: 70,(3) Strength[Normal]    Power: 80,(4) Low Sweep[Fighting]    Power: 65
+machamp,(1) Seismic Toss[Fighting]    Power: 90,(2) Dynamic Punch[Fighting]    Power: 100,(3) Cross Chop[Fighting]    Power: 100,(4) Double Edge[Normal]    Power: 120
+bellsprout,(1) Vine Whip[Grass]    Power: 45,(2) Growth[Normal]    Power: 40,Wrap[Normal]    Power: 15,(4) Poison Powder[Poison]    Power: 50
+weepinbell,(1) Stun Spore[Grass]    Power: 35,(2) Acid[Poison]    Power: 40,Knock Off[Dark]    Power: 65,(4) Poison Powder[Poison]    Power: 50
+victreebel,(1) Slam[Normal]    Power: 80,(2) Leaf Storm[Grass]    Power: 130,(3) Leaf Blade[Grass]    Power: 90,(4) Energy Ball[Grass]    Power: 90
+tentacool,(1) Water Gun[Water]    Power: 40,(2) Acid[Poison]    Power: 40,(3) Water Pulse[Water]    Power: 60,(4) Hex[Ghost]    Power: 65
+tentacruel,(1) Poison Jab[Poison]    Power: 80,(2) Surf[Water]    Power: 90,(3) Sludge Wave[Poison]    Power: 95,(4) Hydro Pump[Water]    Power: 110
+geodude,(1) Tackle[Normal]    Power: 40,(2) Rock Polish[Ground]    Power: 45,(3) Rollout[Ground]    Power: 30,(4) Protect[Normal]    Power: 50
+graveler,(1) Rock Throw[Rock]    Power: 50,(2) Smack Down[Rock]    Power: 50,(3) Dig[Ground]    Power: 80,(4) Bulldoze[Ground]    Power: 60
+golem,(1) Earthquake[Ground]    Power: 100,(2) Double Edge[Normal]    Power: 120,(3) Stone Edge[Rock]    Power: 100,(4) Heavy Slam[Steel]    Power: 105
+ponyta,(1) Tackle[Normal]    Power: 40,(2) Ember[Fire]    Power: 40,(3) Flame Charge[Fire]    Power: 50,(4) Flame Wheel[Fire]    Power: 60
+rapidash,(1) Take Down[Normal]    Power: 90,(2) Inferno[Fire]    Power: 100,(3) Fire Blast[Fire]    Power: 110,(4) Flare Blitz[Fire]    Power: 120
+slowpoke,(1) Tackle[Normal]    Power: 40,(2) Watergun[Water]    Power: 40,(3) Confusion[Psychic]    Power: 50,(4) Water Pulse[Water]    Power: 60
+slowbro,(1) Headbutt[Normal]    Power: 70,(2) Zen Headbutt[Psychic]    Power: 80,(3) Surf[Water]    Power: 90,(4) Psychic[Psychic]    Power: 90
+magnemite,(1) Tackle[Normal]    Power: 40,(2) ThunderShock[Electric]    Power: 40,(3) Supersonic[Normal]    Power: 55,(4) ThunderWave[Electric]    Power: 90
+magneton,(1) ThunderWave[Electric]    Power: 40,(2) ThunderShock[Electric]    Power: 40,(3)Tri-Attack[Normal]    Power: 80,(4) Spark[Electric]    Power: 65
+magnezon,(1) Magnet Rise[Electric]    Power: 70,(2) Flash Cannon[Steel]    Power: 80,(3) Discharge[Electric]    Power: 80,(4) Zap Cannon[Electric]    Power: 120
+farfetched,(1) Aerial Ace[Flying]    Power: 60,(2) Air Cutter[Flying]    Power: 60,(3) Knock off[Dark]    Power: 65,(4) Leaf Blade[Grass]    Power: 90
+doduo,(1) Peck[Flying] Power: 35,(2) Quick Attack[Normal]    Power: 40,(3) Wing Attack[Flying]    Power: 60,(4) Pluck[Flying]    Power: 60
+dodrio,(1) Tri Attack[Normal]    Power: 80,(2) Drill Peck[Flying]    Power: 80,(3) Wing Attack[Flying]    Power: 60,(4) Thrash[Normal]    Power: 120
+seel,(1) Headbutt[Normal]    Power: 70,(2) Watergun[Water]    Power: 40,(3) Icy Wind[Ice]    Power: 55,(4) Ice Shard[Ice]    Power: 40
+dewgong,(1) Take Down[Normal]    Power: 90,(2) Dive[Water]    Power: 80,(3) Aqua Tail[Water]    Power: 90,(4) Ice Beam[Ice]    Power: 90
+grimer,(1) Poison Gas[Poison]    Power: 50,(2) Pound[Normal]    Power: 40,(3) Sludge[Poison]    Power: 65,(4) Smog[Poison]    Power: 30
+muk,(1) Sludge Bomb[Poison]    Power: 90,(2) Sludge Wave[Poison]    Power: 95,(3) Gunk Shot[Poison]    Power: 130,(4) Belch[Poison]    Power: 120
+shellder,(1) Tackle[Normal]    Power: 40,(2) Watergun[Water]    Power: 40,(3) Withdraw[Water]    Power: 40,(4) Ice Shard[Ice]    Power: 40
+cloyster,(1) Aurora Beam[Ice]    Power: 65,(2) Hydro Pump[Water]    Power: 110,(3) Ice Beam[Ice]    Power: 90,(4) Icicle Crash[Ice]    Power: 85
+gastly,(1) Confusion[Ghost]    Power: 30,(2) Lick[Ghost]    Power: 30,(3) Hypnosis[Psychic]    Power: 40,(4) Mean Look[Normal]    Power: 40
+haunter,(1) Shadow Punch[Ghost]   Power: 60,(2) Payback[Dark]    Power: 50,(3) Spite[Ghost]    Power: 50,(4) Hex[Ghost]    Power: 65
+gengar,(1) Sucker Punch[Dark]    Power: 70,(2) Dark Pulse[Dark]    Power: 80,(3) Shadowl Ball[Ghost]   Power: 80,(4) Dream Eater[Psychic]    Power: 100
+onix,(1) Rock Throw[Rock]    Power: 50,(2) Tackle[Normal]    Power: 40,(3) Smack Down[Rock]    Power: 50,(4) Dragon Breath[Dragon]    Power: 60
+drowzee,(1) Pound[Normal]    Power: 40,(2) Confusion[Psychic]    Power: 50,(3) Headbutt[Normal]    Power: 70,(4) Psybeam[Psychic]    Power: 65
+hypno,(1) Zen Headbutt[Psychic]    Power: 80,(2) Psychic[Psychic]    Power: 90,(3) Psyshock[Psychic]    Power: 80,(4) Future Sight[Psychic]    Power: 120
+krabby,(1) Water Gun[Water]    Power: 40,(2) Metal Claw[Steel]    Power: 50,(3) Mud Shot[Ground]    Power: 55,(4) Bubble Beam[Water]    Power: 65
+kingler,(1) Bubble Beam[Water]    Power: 65,(2) Razor Shell[Water]    Power: 75,(3) Slam[Normal]    Power: 80,(4) Crabhammer[Normal]    Power: 100
+voltorb,(1) Tackle[Normal]    Power: 40,(2) Thunder Shock[Electric]    Power: 40,(3) Eerie Impulse[Electric]    Power: 65,(4) Spark[Electric]    Power: 65
+electrode,(1) Charge Beam[Electric]    Power: 50,(2) Swift[Normal]    Power: 60,(3) Discharge[Electric]    Power: 80,(4) Spark[Electric]    Power: 65
+exeggcute,(1) Absorb[Grass]    Power: 20,(2) Hypnosis[Psychic]    Power: 40,(3) Mega Drain[Grass]    Power: 40,(4) Confusion[Psychic]    Power: 50
+exeggutor,(1) Solar Beam[Grass]    Power: 120,(2) Seed Bomb[Grass]    Power: 80,(3) Uproar[Normal]    Power: 90,(4) Wood Hammer[Grass]    Power: 120
+cubone,(1) Growl[Normal]    Power: 40,(2) Mud-Slap[Ground]    Power: 20,(3) False Swipe[Normal]    Power: 40,(4) Headbutt[Normal]    Power: 70
+marowak,(1) Stomping Tantrum[Ground]    Power: 75,(2) Bonemerang[Ground]   Power: 50,(3) Thrash[Normal]    Power: 120,(4) Double Edge[Normal]    Power: 120
+hitmonlee,(1) Brick Break[Fighting]    Power: 75,(2) Fake Out[Normal]    Power: 40,(3) Feint[Normal]    Power: 30,(4) Low Sweep[Fighting]    Power: 65
+hitmonchamp,(1) Fire Punch[Fire]    Power: 75,(2) Mega Punch[Normal]    Power: 80,(3) Close Combat[Fighting]    Power: 120,(4) Focus Energy[Normal]    Power: 40
+lickitung,(1) Stomp[Normal]    Power: 65,(2) Knock Off[Dark]    Power: 65,(3) Slam[Normal]    Power: 80,(4) Power Whip[Grass]    Power: 120
+koffing,(1) Tackle[Normal]    Power: 40,(2) Smog[Poison]    Power: 30,(3) Clear Smog[Poison]    Power: 50,(4) Assurance[Dark]    Power: 60
+weezing,(1) Heat Wave[Fire]    Power: 95,(2) Sludge[Poison]    Power: 65,(3) Sludge Bomb[Poison]    Power: 90,(4) Belch[Poison]    Power: 120
+rhyhorn,(1) Tackle[Normal]    Power: 40,(2) Smack Down[Rock]    Power: 50,(3) Bulldoze[Ground]    Power: 60,(4) Horn Attack[Normal]    Power: 65
+rhydon,(1) Take Down[Normal]    Power: 90,(2) Earthquake[Ground]    Power: 100,(3) Stone Edge[Rock]    Power: 100,(4) Megahorn[Bug]    Power: 120
+chansey,(1) Echoed Voice[Normal]    Power: 40,(2) Take Down[Normal]    Power: 90,(3) Double -Edge[Normal]    Power: 120,(4) Last Resort[Normal]    Power: 140
+tangela,(1) Mega Drain[Grass]      Power: 40,(2) Vine Whip[Grass]    Power: 45,(3) Ancient Power[Ground]    Power: 60,(4) Knock Off[Dark]    Power: 65
+kangaskhan,(1) Headbutt[Normal]    Power: 70,(2) Sucker Punch[Dark]    Power: 70,(3) Crunch[Dark]    Power: 80,(4) Outrage[Dragon]    Power: 120
+horsea,(1) Water Gun[Water]    Power: 40,(2) Twister[Dragon]    Power: 40,(3) Dragon Breath[Dragon]    Power: 60,(4) Leer[Normal]    Power: 40
+seadra,(1) Bubble Beam[Water]    Power: 65,(2) Dragon Pulse[Dragon]    Power: 85,(3) Dragon Breath[Dragon]    Power: 60,(4) Hydro Pump[Water]    Power: 110
+goldeen,(1) Peck[Flying] Power: 35,(2) Tail Whip[Normal]    Power: 40,(3) Supersonic[Normal]    Power: 55,(4) Water Pulse[Water]    Power: 60
+seaking,(1) Waterfall[Water]    Power: 80,(2) Soak[Water]    Power: 90,(3) Megahorn[Bug]    Power: 120,(4) Water Pulse[Water]    Power: 60
+staryu,(1) Tackle[Normal]    Power: 40,(2) Watergun[Water]    Power: 40,(3) Rapid Spin[Normal]    Power: 50,(4) Swift[Normal]    Power: 60
+starmie,(1) Psybeam[Psychic]    Power: 65,(2) Psychic[Psychic]    Power: 90,(3) Surf[Water]    Power: 90,(4) Hydro Pump[Water]    Power: 110
+scyther,(1) Fury Cutter[Bug]    Power: 40,(2) Wing Attack[Flying]    Power: 60,(3) Air Slash[Flying]    Power: 75,(4) X Scissor[Bug]    Power: 80
+jynx,(1) Confusion[Psychic]    Power: 50,(2) Covet[Normal]    Power: 60,(3) Ice Punch[Ice]    Power: 75,(4) Psychic[Psychic]    Power: 90
+electabuzz,(1) Thunder Punch[Electric]    Power: 75,(2) Discharge[Electric]    Power: 80,(3) Thunderbolt[Electric]    Power: 90,(4) Thunder[Electric]    Power: 110
+magmar,(1) Flame Wheel[Fire]    Power: 60,(2) Fire Punch[Fire]    Power: 75,(3) Lava Plume[Fire]    Power: 80,(4) Flamethrower[Fire]    Power: 90
+pinsir,(1) Bug Bite[Bug]    Power: 60,(2) Storm Throw[Fighting]    Power: 60,(3) X Scissor[Bug]    Power: 80,(4) Submission[Fighting]    Power: 80
+tauros,(1) Payback[Dark]    Power: 50,(2) Assurance[Dark]    Power: 60,(3) Horn Attack[Normal]    Power: 65,(4) Zen Heabutt[Psychic]    Power: 80
+magikarp,(1) Splash[Water]    Power: 30,(2) Splash[Water]    Power: 30,(3) Splash[Water]    Power: 30,(4) Splash[Water]    Power: 30
+gyarados,(1) Hydro Pump[Water]    Power: 110,(2) Hurricane[Flying]    Power: 110,(3) Thrash[Normal]    Power: 120,(4) Hyper Beam[Normal]    Power: 150
+lapras,(1) Ice Beam[Ice]    Power: 90,(2) Rain Dance[Water]    Power: 100,(3) Hydro Pump[Water]    Power: 110,(4) Sheer Cold[Ice]    Power: 120
+eevee,(1) Covet[Normal]    Power: 60,(2) Growth[Normal]    Power: 40,(3) Tackle[Normal]    Power: 40,(4) Quick Attack[Normal]    Power: 40
+vaporeon,(1) Bite[Dark]    Power: 60,(2) Water Pulse[Water]    Power: 60,(3) Aurora Beam[Ice]    Power: 65,(4) Muddy Water[Water]    Power: 90
+jolteon,(1) Thunder Shock[Electric]    Power: 40 ,(2) Thunder Fang[Electric]    Power: 65,(3) Discharge[Electric]    Power: 80,(4) Thuunder[Electric]    Power: 110
+flareon,(1) Ember[Fire]    Power: 40,(2) Fire Fang[Fire]    Power: 65,(3) Lava Plume[Fire]    Power: 80,(4) Flare Blitz[Fire]    Power: 120
+porygon,(1) Tackle[Normal]    Power: 40,(2) Thunder Shock[Electric]    Power: 40,(3) Psybeam[Psychic]    Power: 65,(4) Discharge[Electric]    Power: 80
+omanyte,(1) Rollout[Rock]    Power: 30,(2) Water Gun[Water]    Power: 40,(3) Bind[Normal]    Power: 15,(4) Mud Shot[Ground]    Power: 55
+omastar,(1) Ancient Power[Rock]    Power: 60,(2) Brine[Water]    Power: 65,(3) Surf[Water]    Power: 90,(4) Mud Shot[Ground]    Power: 55
+kabuto,(1) Scratch[Normal]    Power: 40,(2) Aqua Jet[Water]    Power: 40,(3) Mud Shot[Ground]    Power: 55,(4) Ancient Power[Rock]    Power: 60
+kabutops,(1) Brine[Water]    Power: 65,(2) Leech Life[Bug]    Power: 80,(3) Liquidation[Water]    Power: 85,(4) Stone Edge[Rock]    Power: 100
+aerodactyl,(1) Iron  Head[Steel]    Power: 80,(2) Take Down[Normal]    Power: 90,(3) Stone Edge[Rock]    Power: 100,(4) Hyper Beam[Normal]    Power: 150
+snorlax,(1) High Horsepower[Ground]    Power: 95,(2) Hammer Arm[Fighting]    Power: 100,(3) Belch[Poison]    Power: 120,(4) Giga Impact[Normal]    Power: 150
+articuno,(1) Ice Beam[Ice]    Power: 90,(2) Hurricane[Flying]    Power: 110,(3) Blizzard[Ice]    Power: 110,(4) Sheer Cold[Ice]    Power: 120
+zapdos,(1) Discharge[Electric]    Power: 80,(2) Thunder[Electric]    Power: 110,(3) Magnetic Flux[Electric]    Power: 110,(4) Zap Cannon[Electric]    Power: 120
+moltres,(1) Heat Wave[Fire]    Power: 95,(2) Hurricane[Flying]    Power: 110,(3) Burn Up[Fire]    Power: 130,(4) Sky Attack[Flying]    Power: 140
+dartini,(1) Wrap[Normal]    Power: 25,(2) Twister[Dragon]    Power: 40,(3) Thunder Wave[Electric]    Power: 40,(4) Leer[Normal]    Power: 40
+dragonair,(1) Dragon Tail[Dragon]    Power: 60,(2) Slam[Normal]    Power: 80,(3) Aqua Tail[Water]    Power: 90,(4) Dragon Rush[Dragon]    Power: 100
+dragonite,(1) Outrage[Dragon]    Power: 120,(2) Dragon Dance[Dragon]    Power: 110,(3) Hyper Beam[Normal]    Power: 150,(4) Dragon Rush[Dragon]    Power: 100
